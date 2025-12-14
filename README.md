@@ -4,7 +4,7 @@
 
 ## 🌡️ 我们是谁
 
-DissipativeAI 是一个异步、自适应、容错的开放研究组织，致力于把「智能源于耗散结构优化自身不确定性的自指耗散」热力学框架转化为可运行、可复现、可扩展的开源工具。我们相信：  
+DissipativeAI 是一个异步、自适应、容错的开放研究组织，我们提出「智能源于耗散结构优化自身不确定性的自指耗散｜ntelligence arises from dissipative structures optimizing their own uncertainty through self-referential dissipation.」这个AI范式并投入工作将其转化为可运行、可复现、可扩展的开源工作。我们相信：  
 **智能不是算法的特权，而是物质在耗散相里自发涌现的秩序。**
 
 ## 🔥 核心愿景
