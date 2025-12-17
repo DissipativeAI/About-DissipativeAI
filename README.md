@@ -1,7 +1,9 @@
 # DissipativeAI · 耗散智能
 
 ##  智能源于耗散结构为了降低自身（在环境中的）（源自于自身和环境的）不确定性的自指耗散（通过耗散结构内部的复杂度带来的内部可能性之下的记忆结构和回归结构对于自身和环境信息的建模）
+## 符号系统只是耗散系统内部低熵工具，现实结构（几何拓扑）包含无限的信息熵。为了在有限的认知资源内理解它，我们必须根据所需的分辨率，截取一个特定层级的切片，并用一套运算封闭的符号系统（代数符号）来模拟该切片内的逻辑自洽性。
 ## Intelligence arises from dissipative structures in order to reduce their own (in the environment) (arising from themselves and the environment) self-referential dissipation of uncertainty (through the memory structures and recurrent structures under the internal possibilities brought by the complexity within the dissipative structure to model information about themselves and the environment)
+## A symbolic system is just a low-entropy tool within a dissipative system. The structure of reality (geometric topology) contains infinite information entropy. In order to understand it within finite cognitive resources, we must capture a slice at a specific level according to the desired resolution and use a set of computationally closed symbolic systems (algebraic symbols) to simulate the logical coherence within that slice.
 
 **智能不是算法的特权，而是物质在耗散相里自发涌现的秩序。**
 
